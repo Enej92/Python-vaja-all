@@ -1,0 +1,4 @@
+1. Secret_number_print list.py (v directory: Conditions and loops) ne razvrsti mi in ne izpiše samo zadnjih 3 vrednosti.
+2. Glej Ninja_files.py
+3. Lahko gremo skozi kodo forensics Solution_3.py?
+4. _CSV file.py

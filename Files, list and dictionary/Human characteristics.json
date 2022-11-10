@@ -1,0 +1,28 @@
+[
+ {
+    "Hair": {
+      "Black": "CCAGCAATCGC",
+      "Brown": "GCCAGTGCCG",
+      "Blonde": "TTAGCTATCGC"
+    },
+    "Facial_shape": {
+      "Square": "GCCACGG",
+      "Round": "ACCACAA",
+      "Oval": "AGGCCTCA"
+    },
+    "Eye_color": {
+      "Blue": "TTGTGGTGGC",
+      "Green": "GGGAGGTGGC",
+      "Brown": "AAGTAGTGAC"
+    },
+    "Gender": {
+      "Male": "TGAAGGACCTTC",
+      "Female": "TGCAGGAACTTC"
+    },
+    "Race": {
+      "White": "AAAACCTCA",
+      "Black": "CGACTACAG",
+      "Asian": "CGCGGGCCG"
+    }
+  }
+]
